@@ -4,7 +4,7 @@ This is a modern, responsive **personal CV / portfolio website** built using HTM
 
 ## 🚀 Live Preview
 
-👉 https://github.com/Mian-Mustafa/Portfolio-Website-Ghulam-Mustafa
+👉 https://mian-mustafa.github.io/Portfolio-Website-Ghulam-Mustafa/index.html
 
 ---
 
